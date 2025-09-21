@@ -20,8 +20,8 @@ function Home() {
         <a className="btn btn-primary m-2" href="https://react.dev" target="_blank" rel="noreferrer">Go to React Docs</a>
       </p>
       <p>
-  <a className="btn btn-success m-2" href="/files/guide.pdf" download>Download Guide (PDF)</a>
-  <a className="btn btn-secondary m-2" href="/files/manual.docx" download>Download Manual (DOCX)</a>
+  <a className="btn btn-success m-2" href="guide.pdf" download>Download Guide (PDF)</a>
+  <a className="btn btn-secondary m-2" href="manual.docx" download>Download Manual (DOCX)</a>
       </p>
       <p>
         <a className="btn btn-outline-info m-2" href="#section1">Jump to Section 1</a>
